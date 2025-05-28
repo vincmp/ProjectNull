@@ -10,16 +10,16 @@
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Next.js**: Framework React otimizado para desempenho e SEO.
-- **TypeScript**: JavaScript com tipagem estática para maior robustez.
-- **Tailwind CSS**: Framework CSS para estilização rápida e responsiva.
+- **Next.js**: Framework React otimizado para desempenho e SEO;
+- **TypeScript**: JavaScript com tipagem estática para maior robustez;
+- **Tailwind CSS**: Framework CSS para estilização rápida e responsiva;
 - **Vercel**: Plataforma de hospedagem para aplicações web modernas.
 
 ## ✨ Funcionalidades
 
-- **Design Responsivo**: Adaptação perfeita a diferentes dispositivos.
-- **Acessibilidade**: Interface amigável para todos os usuários.
-- **Otimização para SEO**: Melhor visibilidade nos motores de busca.
+- **Design Responsivo**: Adaptação perfeita a diferentes dispositivos;
+- **Acessibilidade**: Interface amigável para todos os usuários;
+- **Otimização para SEO**: Melhor visibilidade nos motores de busca;
 - **Alta Performance**: Carregamento rápido e eficiente.
 
 ## 🚀 Como Instalar
@@ -54,12 +54,13 @@
    ```
 
 6. **Acessar a Aplicação**
-   Abra o navegador e visite:
-   `http://localhost:3000`
+
+- Abra o navegador e visite:
+  `http://localhost:3000`
 
 ## 🤝 Como Contribuir
 
-- Abra issues para reportar bugs ou sugerir melhorias.
+- Abra issues para reportar bugs ou sugerir melhorias;
 - Envie pull requests com suas alterações.
 
 <br><br><br>
